@@ -1,0 +1,5 @@
+classes = 2
+train = /content/gdrive/MyDrive/darknet/apple_detection_dataset/apple_dataset/train/images/train.txt
+valid = /content/gdrive/MyDrive/darknet/apple_detection_dataset/apple_dataset/validation/images/test.txt
+names = /content/gdrive/MyDrive/darknet/apple_detection_dataset/apple_dataset/train/images/classes.names
+backup = backup
