@@ -1,0 +1,4 @@
+/content/gdrive/MyDrive/darknet/custom/fruit01.jpg
+/content/gdrive/MyDrive/darknet/custom/fruit02.jpg
+/content/gdrive/MyDrive/darknet/custom/fruit03.jpg
+/content/gdrive/MyDrive/darknet/custom/fruit04.jpg
